@@ -25,6 +25,7 @@ group :development, :test do
   gem 'childprocess'
   gem 'terminal-notifier-guard'
   gem "better_errors"
+  gem 'annotate', ">=2.6.0"
 end
 
 group :test do
